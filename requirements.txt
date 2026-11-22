@@ -1,0 +1,5 @@
+discord.py==2.6.0
+wavelink==3.5.2
+yt-dlp>=2025.10.22
+aiohttp>=3.10.0,<4.0
+uvloop>=0.21.0; platform_system != "Windows"
